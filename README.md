@@ -2,8 +2,12 @@
 
 ## subtitulo
 
-edward santamria  
-hincha crema
+edward <!--santamria-->
+
+> edwaeaqejsif 
+> dsdmdmosmddk
+
+
 
 historia
 este esla historia de estadward
