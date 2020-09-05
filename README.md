@@ -1,19 +1,24 @@
-# edward
+# titulo
 
-es un hincha crema  con garra
+## subtitulo
 
-**vamos crermas**  
-oo mmaa
+este es la hitoriande edward  
 
-[link][a] es un apartado
-![ee](../imagenes/1.jpg) 
+santamira benites
 
-edwar sabtan nana ja ja ibdw iebw e we je e ejnw   
-kqeniweniwenidndsindindidsd :fire: esta q vuela
+este esla historia de estadward
 
-```javascript
-let x ="edward sansajdbbe"
+santamria benits
 
-```
+* edwa
 
-[a]: #
+* ffff
+
+* ldfm
+  * vamos
+  * crea  este es un link  
+
+​                                            este es un mensaje
+
+[ultimo](#) para el desenlace  
+
